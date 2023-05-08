@@ -1,4 +1,3 @@
 # Java-Spring-01
-Java version
-jdk version
-gradle version
+jdk version 20
+gradle version 8.1.1
